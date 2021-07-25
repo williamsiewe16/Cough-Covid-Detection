@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+flask
+gunicorn
+tensorflow
+flask_cors
+sklearn
+librosa
+pydub

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cough On Covid</string>
+    <string name="facebook_app_id">297933964957949</string>
+    <string name="google_maps_api_key">AIzaSyDAhFajIYTsfrF-SYSD7bZIheSfkCpalzM</string>
+</resources>

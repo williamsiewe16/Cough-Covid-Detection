@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956796457729",
+    "firebase_url": "https://vivlio-e7a14.firebaseio.com",
+    "project_id": "vivlio-e7a14",
+    "storage_bucket": "vivlio-e7a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956796457729:android:be095d12dc24d6aa7ec100",
+        "android_client_info": {
+          "package_name": "com.mastercamp.coughoncovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956796457729-c2rvbt54e1mbt6ll55bokk893256k61p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuWb7sGYFu6h6BaXtxHVgiBoauE5MuV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956796457729-c2rvbt54e1mbt6ll55bokk893256k61p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
